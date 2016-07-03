@@ -5,7 +5,7 @@ margin-bottom: 40px;
 font-size: 1.75em;
 }
 div.head{
- border: solid 3px #000;
+ border: solid 1px #000;
 background-color: #ddd;
 position: relative;
 }
@@ -20,8 +20,8 @@ text-align: center;
 box-sizing: border-box;
 border-style:solid;
 border-color: black;
-border-top: 3px;
-border-right: 3px;
+border-top: 1px;
+border-right: 1px;
 margin:0px 0px 15px;
 right: 0px;
 top: 0px;
