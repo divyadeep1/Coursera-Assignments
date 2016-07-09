@@ -1,0 +1,49 @@
+.navbar{
+background-color: rgb(41,171,164);
+}
+
+
+.list{
+	text-align: center;
+	color: #eef;
+}
+
+.navbar-toggle{
+	margin-top:-50px;
+}
+
+ul{
+background-color: rgb(31,128,123);
+color: white;
+}
+
+div.center{
+	text-align: center;
+	font-size: 1.8em;
+}
+div.out{
+	padding:0px 20px;
+	background-color: white;
+}
+.para{
+	margin-bottom: 30px;
+	background-color: rgb(53,68,88);
+	color: white;
+
+}
+
+a{
+	text-decoration: none;
+	color: #aaf;
+}
+ 
+a:hover{
+	color: #aaa;
+}
+span.icon-bar{
+	color: black;
+}
+hr{
+	width: 50%
+}
+
